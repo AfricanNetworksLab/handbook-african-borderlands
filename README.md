@@ -2,9 +2,9 @@
 __Maintainer__ = [African Networks Lab](https://anl.geog.ufl.edu/)
 __Corresponding author__ = Dr. Olivier Walther, owalther@ufl.edu, University of Florida
 
-The dataset can be used to study the bibliometric references cited in the Routledge Handbook of African Borderlands edited by Olivier Walther, Inocent Moyo and Isabella Soi (2026).
+The dataset can be used to study the bibliometric references cited in the Routledge Handbook of African Borderlands edited by Olivier Walther, Inocent Moyo and Isabella Soi (2026). https://www.routledge.com/Routledge-Handbook-of-African-Borderlands/Walther-Moyo-Soi/p/book/9781032857794
 
-The 'network' spreadsheet contains three columns: unique code, title of the publication, and chapter number. The 'citations' spreadsheet contains three colums: rank, unique code, and number of citations.
+The 'network' spreadsheet contains three columns: unique code, title of the publication, and chapter number. The 'citations' spreadsheet contains three columns: rank, unique code, and number of citations.
 
 ## Citation
 Please cite as:
